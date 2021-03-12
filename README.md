@@ -1,6 +1,13 @@
+<style>
+  #ok {
+    width: 100%;
+    height: 5em;
+  }
+</style>
+
 ## Hi, I'm Nguyễn Văn Anh Tuấn 👋🏼💪🏼
 
-<div style="background-color: blue;">
+<div id="ok">
   <h1>oke bro</h1> 
 </div>
 
