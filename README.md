@@ -1,6 +1,6 @@
 ## Hi, I'm Nguyễn Văn Anh Tuấn 👋🏼💪🏼
 
-<div>
+<div style="background-color: gray">
   <h1>oke bro</h1> 
 </div>
 
