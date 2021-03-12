@@ -1,9 +1,12 @@
-<style>
+(setq markdown-xhtml-header-content"
+<style type='text/css'>
   #ok {
+    height: 50px;
+    background-color: gray;
     width: 100%;
-    height: 5em;
   }
 </style>
+")
 
 ## Hi, I'm Nguyễn Văn Anh Tuấn 👋🏼💪🏼
 
