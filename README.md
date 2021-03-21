@@ -8,8 +8,6 @@ I'm now studying Data Science at Industrial University of Ho Chi Minh City. I ra
 - [ ] Done the Vis For Teacher V2 project with my friends 💪
 - [ ] Classification the NSL KDD, get accuracy 100% 😋
 
-#### In 2022, my aims are:
-
 #### In 2023, my aims are:
   - [ ] Graduated Data Science at IUH with **`excellent`** diploma 🤟
   - [ ] Get the Data Science Master scholarship, to go abroad 🥳
