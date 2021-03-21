@@ -10,6 +10,4 @@ I'm now studying Data Science at Industrial University of Ho Chi Minh City. I ra
 #### In 2022, my aims are:
 
 #### In 2023, my aims are:
-
-#### In 2024, my aims are:
-- [ ] Get the Master scholarship at Data Science, to go abroad. 
+  - [ ] Get the Master scholarship at Data Science, to go abroad. 🥳
