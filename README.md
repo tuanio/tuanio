@@ -4,5 +4,5 @@ I'm now studying Data Science at Industrial University of Ho Chi Minh City. I ra
 
 #### In 2021, my aims are:
 
-- [ ] Get the IELTS at 7.5 overall scores 👌
-- [ ] Done the Vis For Teacher V2 project with my friends 🤝
+- [ ] Get the IELTS at 7.5 overall scores 🙀
+- [ ] Done the Vis For Teacher V2 project with my friends 💪
