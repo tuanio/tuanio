@@ -6,6 +6,7 @@ I'm now studying Data Science at Industrial University of Ho Chi Minh City. I ra
 
 - [ ] Get the IELTS at 7.5 overall scores 🙀
 - [ ] Done the Vis For Teacher V2 project with my friends 💪
+- [ ] Classification the NSL KDD, get accuracy 100% 😋
 
 #### In 2022, my aims are:
 
