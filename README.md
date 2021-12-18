@@ -13,5 +13,5 @@ I'm now studying Data Science at Industrial University of Ho Chi Minh City. I ra
 - [ ] Apply for Vingroup Scholarship.
 
 #### In 2023, my aims are:
-- [ ] Graduated Data Science at IUH with **`excellent`** diploma 🤟
+- [ ] Graduated Data Science at IUH with **`good`** diploma 🤟
 - [ ] Get the Data Science Master scholarship, to go abroad 🥳
