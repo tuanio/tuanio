@@ -10,6 +10,7 @@ I'm now studying Data Science at Industrial University of Ho Chi Minh City. I ra
 #### In 2022, my aims are:
 - [ ] Get the IELTS at 6.5 overall scores 🙀
 - [ ] Submit 2 papers to some journal.
+- [ ] Apply for Vingroup Scholarship.
 
 #### In 2023, my aims are:
 - [ ] Graduated Data Science at IUH with **`excellent`** diploma 🤟
