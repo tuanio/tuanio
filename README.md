@@ -8,7 +8,7 @@ I'm now studying Data Science at Industrial University of Ho Chi Minh City. I ra
 - [X] Go for an intership 🤙
 
 #### In 2022, my aims are:
-- [ ] Get the IELTS at 6.5 overall scores 🙀
+- [ ] Get the IELTS at 6.5 Academic 🙀
 - [ ] Submit 2 papers to some journal.
 - [ ] Apply for Vingroup Scholarship.
 
