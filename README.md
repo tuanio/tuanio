@@ -21,4 +21,4 @@ I'm now studying Data Science at Industrial University of Ho Chi Minh City. I ra
 - [ ] Get the Data Science Master scholarship, to go abroad 🥳
 
 ---
-[](https://komarev.com/ghpvc/?username=tuanio&color=blue)
+![](https://komarev.com/ghpvc/?username=tuanio&color=blue)
