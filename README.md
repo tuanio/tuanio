@@ -17,6 +17,7 @@ I'm now studying Data Science at Industrial University of Ho Chi Minh City. I ra
 - [x] Continue to persue research in **Speech Processing** field.
   - [x] Go for Research Intern in I2R, A*Star Group.
 - [ ] Get 1 accepted paper at INTERSPEECH
+- [ ] Get the IELTS at 6.5 Academic 🙀
 
 #### In 2025, my aims are:
 - [ ] Get the Data Science Master scholarship, to go abroad 🥳
