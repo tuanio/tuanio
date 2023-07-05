@@ -14,8 +14,9 @@ I'm now studying Data Science at Industrial University of Ho Chi Minh City. I ra
 
 #### In 2023, my aims are:
 - [ ] Graduated Data Science at IUH with **`good`** diploma 🤟
-- [ ] Continue to persue research in **Speech Processing** field.
-  - [ ] Go for Research Intern 
+- [x] Continue to persue research in **Speech Processing** field.
+  - [x] Go for Research Intern in I2R, A*Star Group.
+- [ ] Get 1 accepted paper at INTERSPEECH
 
 #### In 2025, my aims are:
 - [ ] Get the Data Science Master scholarship, to go abroad 🥳
