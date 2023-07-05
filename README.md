@@ -16,7 +16,7 @@ I'm now studying Data Science at Industrial University of Ho Chi Minh City. I ra
 - [ ] Graduated Data Science at IUH with **`good`** diploma 🤟
 - [x] Continue to persue research in **Speech Processing** field.
   - [x] Go for Research Intern (I got SIPGA scholarship to work in I2R, A*Star Group as Research Assistant).
-  - [ ] Get 1 accepted paper at INTERSPEECH
+  - [ ] Get 1 accepted paper at **INTERSPEECH**
   - [ ] Seeking chance to pursue PhD in this field
 - [ ] Get the IELTS at 6.5 Academic 🙀
 
