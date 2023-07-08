@@ -1,6 +1,6 @@
 ## Hi, I'm Nguyễn Văn Anh Tuấn 👋🏼💪🏼
 
-I'm now working as an Intern in Institude for Infrocomm Research, A*Star Group. My topics are Voice Conversion (VC) and Spoken Language Understanding (SLU). I rate myself as a hard worker. Welcome to my Github page!😝
+I'm now working as an Research Intern in Institude for Infrocomm Research, A*Star Group. My topics are Voice Conversion (VC) and Spoken Language Understanding (SLU). I rate myself as a hard worker. Welcome to my Github page!😝
 
 #### In 2021, my aims are:
 
