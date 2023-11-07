@@ -13,15 +13,18 @@ I'm now working as a Research Intern in Institude for Infrocomm Research, A*Star
 - ❌ Apply for VinAI Residency Batch 9 (Submitted the application, waiting...) (I've fail for apply the program).
 
 #### In 2023, my aims are:
-- [ ] Graduated Data Science at IUH with **`good`** diploma 🤟
+- ❌ Graduated Data Science at IUH with **`good`** diploma 🤟 (Due to work in Singapore, I've delay to next year.
 - [x] Continue to persue research in **Speech Processing** field.
   - [x] Go for Research Intern (I got SIPGA scholarship to work in I2R, A*Star Group as Research Assistant).
-  - [ ] Get 1 accepted paper at **INTERSPEECH**
-  - [ ] Seeking chance to pursue PhD in this field
-- [ ] Get the IELTS at 6.5 Academic 🙀
+  - ❌ Get 1 accepted paper at **INTERSPEECH** (the time have flew away, waiting for next year).
+  - ❌ Seeking chance to pursue PhD in this field (cannot apply this year, need to learn & read more, also need publish papers).
+- ❌ Get the IELTS at 6.5 Academic 🙀
 
-#### In 2025, my aims are:
-- [ ] Get the Data Science Master scholarship, to go abroad 🥳
+#### In 2024, my aims are:
+- [ ] Get the IELTS at 6.5 Academic 🙀
+- [ ] Graduated Data Science at IUH with **`good`** diploma 🤟
+- [ ] Get 1 accepted paper at **INTERSPEECH** or **ICASSP** 📃📄
+- [ ] Get the Data Science PhD scholarship, to go abroad 🥳
 
 ---
 ![](https://github-readme-stats.vercel.app/api?username=tuanio&show_icons=true&theme=transparent)
