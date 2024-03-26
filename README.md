@@ -27,6 +27,7 @@ I'm now working as a Research Intern in Institude for Infrocomm Research, A*Star
   - [x] I submited one at **INTERSPEECH 2024** (waiting for results!) 😱
   - [x] 1st time colab one paper with **NTU 🦁** team, also submit one to **INTERSPEECH 2024** (waiting for results!) 🙀
 - [ ] Get the Computer Science PhD scholarship in Speech Processing field, to go abroad 🥳
+  - [ ] Applied one into **University of Edinburgh** (waiting for results!) 🔥
 
 ---
 ![](https://github-readme-stats.vercel.app/api?username=tuanio&show_icons=true&theme=transparent)
