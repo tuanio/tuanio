@@ -24,6 +24,8 @@ I'm now working as a Research Intern in Institude for Infrocomm Research, A*Star
 - [ ] Get the IELTS at 6.5 Academic 🙀
 - [ ] Graduated Data Science at IUH with **`good`** diploma 🤟
 - [ ] Get 1 accepted paper at **INTERSPEECH** or **ICASSP** 📃📄
+  - [x] I submited one at **INTERSPEECH 2024** (waiting for results!) 😱
+  - [x] 1st time to colab one paper with **NTU 🦁** team to also submit one to **INTERSPEECH 2024** (waiting for results!) 🙀
 - [ ] Get the Computer Science PhD scholarship in Speech Processing field, to go abroad 🥳
 
 ---
