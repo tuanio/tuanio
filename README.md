@@ -23,9 +23,9 @@ I'm now working as a Research Intern in Institude for Infrocomm Research, A*Star
 #### In 2024, my aims are:
 - [ ] Get the IELTS at 6.5 Academic 🙀
 - [x] Graduated Data Science at IUH with **`good`** diploma 🤟
-- [x] Get 1 accepted paper at **INTERSPEECH** or **ICASSP** 📃📄 (I got 2 😱)
-  - [x] I submited one at **INTERSPEECH 2024** (waiting for results!) 😱
-  - [x] 1st time colab one paper with **🦁** team, also submit one to **INTERSPEECH 2024** (waiting for results!) 🙀
+- [x] Get 1 accepted paper at **INTERSPEECH** or **ICASSP** 📃📄 (I got 2 at **INTERSPEECH** 😱)
+  - [x] I submited one at **INTERSPEECH 2024** (🥳👏) 😱
+  - [x] 1st time colab one paper with **NTU🦁** team, also submit one to **INTERSPEECH 2024** (🥳👏) 🙀
 - [ ] Get the Computer Science PhD scholarship in Speech Processing field, to go abroad 🥳
   - [ ] Applied one into **🇬🇧** (waiting for results!) 🔥
 
