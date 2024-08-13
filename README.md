@@ -26,7 +26,7 @@ I'm now working as a Research Intern in Institude for Infrocomm Research, A*Star
 - [x] Get 1 accepted paper at **INTERSPEECH** or **ICASSP** 📃📄 (I got 2 at **INTERSPEECH** 😱)
   - [x] I submited one at **INTERSPEECH 2024** (🥳👏) 😱
   - [x] 1st time colab one paper with **NTU🦁** team, also submit one to **INTERSPEECH 2024** (🥳👏) 🙀
-- ~[ ] Get the Computer Science PhD scholarship in Speech Processing field, to go abroad 🥳~ (Delay for few years 😼🙌 - working first 🤟)
+- ❌ ~Get the Computer Science PhD scholarship in Speech Processing field, to go abroad 🥳~ (Delay for few years 😼🙌 - working first 🤟)
   - ❌ Applied one into **🇬🇧** (I was fail 🥹 - next time 🔥🔥🔥) 🔥
 - [x] Working on Professional Research company - as a Speech Processing Research Engineer at I2R, A*STAR Group 🍀🔥🚀
 
