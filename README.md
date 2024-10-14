@@ -1,6 +1,6 @@
 ## Hi, I'm Nguyễn Văn Anh Tuấn 👋🏼💪🏼
 
-I'm now working as a Research Intern in Institude for Infrocomm Research, A*Star Group. My topics are related to Speech Recognition and how to train a very robust Speech Recognition model. I rate myself as a hard worker. Welcome to my Github page!😝
+I'm now working as a Research Engineer in Institude for Infrocomm Research, A*Star Group. My topics are related to Speech Recognition and how to train a very robust Speech Recognition model. I rate myself as a hard worker. Welcome to my Github page!😝
 
 #### In 2021, my aims are:
 
