@@ -21,7 +21,7 @@ I'm now working as a Research Engineer in Institude for Infrocomm Research, A*St
 - ❌ Get the IELTS at 6.5 Academic 🙀 (too lazy to develop learning English routine, I'll change myself).
 
 #### In 2024, my aims are:
-- [ ] Get the IELTS at 6.5 Academic 🙀
+- ❌ Get the IELTS at 6.5 Academic 🙀
 - [x] Graduated Data Science at IUH with **`good`** diploma 🤟
 - [x] Get 1 accepted paper at **INTERSPEECH** or **ICASSP** 📃📄 (I got 2 at **INTERSPEECH** 😱)
   - [x] I submited one at **INTERSPEECH 2024** (🥳👏) 😱
