@@ -30,6 +30,10 @@ I'm now working as a Research Engineer in Institude for Infrocomm Research, A*St
   - ❌ Applied one into **🇬🇧** (I was fail 🥹 - next time 🔥🔥🔥) 🔥
 - [x] Working on Professional Research company - as a Speech Processing Research Engineer at I2R, A*STAR Group 🍀🔥🚀
 
+#### 2025
+- My new Portfolio Page: [https://tuanio.github.io/portfolio/](https://tuanio.github.io/portfolio/)
+- [x] **Interspeech** 2 New papers 🥳👏
+
 ---
 ![](https://github-readme-stats.vercel.app/api?username=tuanio&show_icons=true&theme=transparent)
 
