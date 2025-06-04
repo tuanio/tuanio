@@ -17,6 +17,10 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuanio&show_icons=true&theme=transparent)
+
+---
+
 ## 📌 Yearly Goals & Highlights
 
 ### 🎯 2021
@@ -53,7 +57,5 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuanio&show_icons=true&theme=transparent)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tuanio&color=blue)
