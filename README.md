@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Nguyễn Văn Anh Tuấn
 
-🎓 Data Science Graduate | 🔬 Research Engineer at the Institute for Infocomm Research (I²R), A*STAR, Singapore  
+🔬 Research Engineer at the Institute for Infocomm Research (I²R), A*STAR, Singapore | 🎓 Data Science Graduate
 🎯 I focus on **Speech Recognition**, with a particular interest in building **robust, multilingual, and code-switch ASR systems**, especially for **low-resource languages**. Currently, I'm working toward supporting **11 Southeast Asian languages**.  
-💪 Passionate, curious, and always learning!
+💪 Passionate, hard work, curious, and always learning!
 
 ---
 
