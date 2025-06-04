@@ -56,6 +56,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
 ![Profile Views](https://komarev.com/ghpvc/?username=tuanio&color=blue)
