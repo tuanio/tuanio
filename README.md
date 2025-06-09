@@ -19,6 +19,13 @@
   - Speech Language Models (SpeechLLMs)
   - Multimodal Speech AI
   - Conversational AI
+ 
+---
+
+## Additional Projects
+- LingWav2Vec2 for Mispronounciation Detection [INTERSPEECH 2024] 👉 [tuanio/ling-wav2vec2](https://github.com/tuanio/ling-wav2vec2)
+- Image2Latex 👉 [tuanio/image2latex](https://github.com/tuanio/image2latex)
+- Machine Learning Algorithm Implementation 👉 [tuanio/ml-algo-implementation](https://github.com/tuanio/ml-algo-implementation)
 
 ---
 
