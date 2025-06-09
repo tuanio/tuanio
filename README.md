@@ -25,8 +25,11 @@
 ## Additional Projects
 - LingWav2Vec2 for Mispronounciation Detection [INTERSPEECH 2024] 👉 [tuanio/ling-wav2vec2](https://github.com/tuanio/ling-wav2vec2)
 - Image2Latex 👉 [tuanio/image2latex](https://github.com/tuanio/image2latex)
+- AudioClassification using AlexNet w/ SpeechCommands 👉 [tuanio/audio-classification](https://github.com/tuanio/audio-classification)
+- Speech2Image GAN (S2IGAN) Implementation [tuanio/S2IGAN](https://github.com/tuanio/S2IGAN)
 - Machine Learning Algorithm Implementation 👉 [tuanio/ml-algo-implementation](https://github.com/tuanio/ml-algo-implementation)
 - Vietnamese Chat w/ RAG 👉 [tuanio/gradio-chat-rag](https://github.com/tuanio/gradio-chat-rag)
+- Hidden Markov Model (HMM) Implementation 👉 [tuanio/hmm](https://github.com/tuanio/hmm)
 - RFM Collaborative Filtering 👉 [tuanio/RFM-model-collaborative-filtering](https://github.com/tuanio/RFM-model-collaborative-filtering)
 
 ---
