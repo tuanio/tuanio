@@ -10,6 +10,7 @@
 
 ## 🧠 Research Interests
 - Automatic Speech Recognition (ASR)
+  - Noisy Student Training for ASR 👉 [tuanio/noisy-student-training-asr](https://github.com/tuanio/noisy-student-training-asr)
 - Robust and Generalizable Speech Models
 - Low-Resource, Multilingual, and Code-Switched ASR Systems
 - Human-Computer Interaction through:
