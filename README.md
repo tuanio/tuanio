@@ -26,6 +26,8 @@
 - LingWav2Vec2 for Mispronounciation Detection [INTERSPEECH 2024] 👉 [tuanio/ling-wav2vec2](https://github.com/tuanio/ling-wav2vec2)
 - Image2Latex 👉 [tuanio/image2latex](https://github.com/tuanio/image2latex)
 - Machine Learning Algorithm Implementation 👉 [tuanio/ml-algo-implementation](https://github.com/tuanio/ml-algo-implementation)
+- Vietnamese Chat w/ RAG 👉 [tuanio/gradio-chat-rag](https://github.com/tuanio/gradio-chat-rag)
+- RFM Collaborative Filtering 👉 [tuanio/RFM-model-collaborative-filtering](https://github.com/tuanio/RFM-model-collaborative-filtering)
 
 ---
 
