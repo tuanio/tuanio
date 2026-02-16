@@ -2,7 +2,9 @@
 
 <!-- 🔬 Research Engineer at the Institute for Infocomm Research (I²R), A*STAR, Singapore | 🎓 Data Science Graduate  -->
 
-🎯 I focus on **Speech Recognition**, with a particular interest in building **robust, multilingual, and code-switch ASR systems**, especially for **low-resource languages**. Currently, I'm working toward supporting **11 Southeast Asian languages**.  
+<!-- 🎯 I focus on **Speech Recognition**, with a particular interest in building **robust, multilingual, and code-switch ASR systems**, especially for **low-resource languages**. Currently, I'm working toward supporting **11 Southeast Asian languages**. -->
+
+🎯 I focus on **Conversational AI** 🗣️💬
 
 💪 Passionate, hard work, curious, and always learning!
 
@@ -70,6 +72,9 @@
 ### 🛠️ 2025
 - 🔗 Check out my portfolio: [https://tuanio.github.io/portfolio/](https://tuanio.github.io/portfolio/)
 - ✅ 2 new papers accepted at INTERSPEECH 2025 🎉👏
+
+### 🛠️ 2026
+- Joined Apple  
 
 ---
 
