@@ -60,7 +60,7 @@
 
 ### 🎯 2024
 - ❌ IELTS 6.5 Academic (still pending)
-- ✅ Graduated from Data Science at IUH with a **Good** diploma 🎓
+- ✅ Graduated from Data Science at IUH with a **Very Good** diploma 🎓
 - ✅ Published 2 papers at **INTERSPEECH 2024** 🎉
   - ✅ Submitted 1st paper solo to INTERSPEECH 2024 🥳
   - ✅ Co-authored 1st collaboration with NTU team 🦁
