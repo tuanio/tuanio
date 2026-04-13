@@ -9,6 +9,7 @@
 💪 Passionate, hard work, curious, and always learning!
 
 Started with a Data Science program at IUH, I joined I2R, A*STAR to do research on Speech (ASR, Speech Enhancement, and Robust Speech under extremely noisy environments) and Multilingual ASR and Code-Switching. Focusing on Southeast Asian languages with large-scale distributed training, I helped the team develop multiple scalable systems for data collection, preparation, and training. Currently, I'm at Apple working on the most widely adopted Conversational AI system: Siri.
+ 
 ---
 
 ## 🧠 Research Interests
