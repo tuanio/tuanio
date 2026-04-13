@@ -62,7 +62,7 @@
 - ❌ IELTS 6.5 Academic (still pending)
 - ✅ Graduated from Data Science at IUH with a **Very Good** diploma 🎓
 - ✅ Published 2 papers at **INTERSPEECH 2024** 🎉
-  - ✅ Submitted 1st paper solo to INTERSPEECH 2024 🥳
+  - ✅ Submitted 1st paper solo to INTERSPEECH 2024 🥳 [interspeech_2024/nguyen24b_interspeech.html](https://www.isca-archive.org/interspeech_2024/nguyen24b_interspeech.html)
   - ✅ Co-authored 1st collaboration with NTU team 🦁 [arxiv.org/abs/2406.17376](https://arxiv.org/abs/2406.17376)
 - ❌ Didn't secure a PhD scholarship abroad (postponed — still preparing 🔥)
   - ❌ Applied to a UK program (unsuccessful — trying again soon!)
@@ -71,7 +71,9 @@
 ### 🛠️ 2025
 - 🔗 Check out my portfolio: [https://tuanio.github.io/portfolio/](https://tuanio.github.io/portfolio/)
 - ✅ 2 new papers accepted at INTERSPEECH 2025 🎉👏
-- ✅ 1 new paper accepted at ASRU 2025 🎉👏
+  - Main Conference [interspeech_2025/nguyen25_interspeech.html](https://www.isca-archive.org/interspeech_2025/nguyen25_interspeech.html)
+  - MLC-SLM Workshop: [arxiv.org/abs/2506.13596](https://arxiv.org/abs/2506.13596)
+- ✅ 1 new paper accepted at ASRU 2025 🎉👏 [arxiv.org/abs/2506.14190](https://arxiv.org/abs/2506.14190)
 
 ### 🛠️ 2026
 - Joined Apple  
