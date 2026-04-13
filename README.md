@@ -34,9 +34,8 @@
 - Hidden Markov Model (HMM) Implementation 👉 [tuanio/hmm](https://github.com/tuanio/hmm)
 - RFM Collaborative Filtering 👉 [tuanio/RFM-model-collaborative-filtering](https://github.com/tuanio/RFM-model-collaborative-filtering)
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuanio&show_icons=true&theme=transparent)
+<!-- --- -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuanio&show_icons=true&theme=transparent) -->
 
 ---
 
