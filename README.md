@@ -21,6 +21,7 @@
   - Speech Language Models (SpeechLLMs)
   - Multimodal Speech AI
   - Conversational AI
+- Self-Evolve Agentic AI System 
  
 ---
 
