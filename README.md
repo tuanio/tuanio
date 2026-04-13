@@ -63,7 +63,7 @@
 - ✅ Graduated from Data Science at IUH with a **Very Good** diploma 🎓
 - ✅ Published 2 papers at **INTERSPEECH 2024** 🎉
   - ✅ Submitted 1st paper solo to INTERSPEECH 2024 🥳
-  - ✅ Co-authored 1st collaboration with NTU team 🦁
+  - ✅ Co-authored 1st collaboration with NTU team 🦁 [arxiv.org/abs/2406.17376](https://arxiv.org/abs/2406.17376)
 - ❌ Didn't secure a PhD scholarship abroad (postponed — still preparing 🔥)
   - ❌ Applied to a UK program (unsuccessful — trying again soon!)
 - ✅ Started working full-time at I²R, A*STAR as a Research Engineer 🚀
@@ -71,6 +71,7 @@
 ### 🛠️ 2025
 - 🔗 Check out my portfolio: [https://tuanio.github.io/portfolio/](https://tuanio.github.io/portfolio/)
 - ✅ 2 new papers accepted at INTERSPEECH 2025 🎉👏
+- ✅ 1 new paper accepted at ASRU 2025 🎉👏
 
 ### 🛠️ 2026
 - Joined Apple  
