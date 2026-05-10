@@ -19,8 +19,8 @@ Started with a Data Science program at IUH, I joined I2R, A*STAR to do research 
   - Noisy Student Training for ASR 👉 [tuanio/noisy-student-training-asr](https://github.com/tuanio/noisy-student-training-asr)
   - End2End ASR Frameworks 👉 [tuanio/e2e-asr-toolkit](https://github.com/tuanio/e2e-asr-toolkit)
   - DeepSpeed-CTC 👉 [tuanio/deepspeech-ctc](https://github.com/tuanio/deepspeech-ctc)
- - Robust and Generalizable Speech Models: Low-Resource, Multilingual, and Code-Switched ASR Systems
- - Human-Computer Interaction through: SpeechLLM and Conversational AI
+  - Robust and Generalizable Speech Models: Low-Resource, Multilingual, and Code-Switched ASR Systems
+  - Human-Computer Interaction through: SpeechLLM and Conversational AI
 - Agentic Harness Engineering
   - Self-improvement Agentic System
   - Context Engineering: Orchestrator, Memories, and Tool-use.
