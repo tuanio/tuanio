@@ -22,8 +22,8 @@ Started with a Data Science program at IUH, I joined I2R, A*STAR to do research 
  - Robust and Generalizable Speech Models: Low-Resource, Multilingual, and Code-Switched ASR Systems
  - Human-Computer Interaction through: SpeechLLM and Conversational AI
 - Agentic Harness Engineering
- - Self-improvement Agentic System
- - Context Engineering: Orchestrator, Memories, and Tool-use.
+  - Self-improvement Agentic System
+  - Context Engineering: Orchestrator, Memories, and Tool-use.
  
 ---
 
